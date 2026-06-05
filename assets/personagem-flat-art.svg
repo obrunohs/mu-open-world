@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Guerreiro MU PDL - Flat Art Vetorial</title>
+  <desc id="desc">Personagem guerreiro em estilo vetorial flat art com armadura dourada, capa vermelha e espada.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#26103b"/>
+      <stop offset="1" stop-color="#070b14"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#d89024"/>
+      <stop offset="1" stop-color="#ffd36b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="48" fill="url(#bg)"/>
+  <circle cx="256" cy="258" r="188" fill="#121b2a" opacity=".82"/>
+  <path d="M153 168 C125 238 119 328 147 424 L210 399 C193 326 193 248 214 185 Z" fill="#7d1324"/>
+  <path d="M359 168 C387 238 393 328 365 424 L302 399 C319 326 319 248 298 185 Z" fill="#5d0d1b"/>
+  <path d="M205 154 L307 154 L335 254 L302 378 L210 378 L177 254 Z" fill="url(#gold)"/>
+  <path d="M222 178 L290 178 L308 250 L287 336 L225 336 L204 250 Z" fill="#2b3f8f"/>
+  <path d="M207 158 L173 247 L204 274 L224 190 Z" fill="#b4691f"/>
+  <path d="M305 158 L339 247 L308 274 L288 190 Z" fill="#b4691f"/>
+  <circle cx="256" cy="112" r="48" fill="#f0c994"/>
+  <path d="M210 108 C214 55 298 55 302 108 L289 102 C279 83 233 83 223 102 Z" fill="#dadada"/>
+  <path d="M214 103 L256 62 L298 103 L280 96 L256 86 L232 96 Z" fill="#c9c9c9"/>
+  <rect x="223" y="112" width="66" height="23" rx="11" fill="#1c2433"/>
+  <circle cx="237" cy="124" r="5" fill="#79d7ff"/>
+  <circle cx="275" cy="124" r="5" fill="#79d7ff"/>
+  <path d="M225 149 C241 165 271 165 287 149" fill="none" stroke="#684124" stroke-width="6" stroke-linecap="round"/>
+  <path d="M180 261 L132 341 L105 329 L153 246 Z" fill="#f0c994"/>
+  <path d="M332 254 L371 173 L393 188 L355 268 Z" fill="#f0c994"/>
+  <path d="M115 327 L151 344 L140 379 L101 360 Z" fill="#dadada"/>
+  <path d="M375 170 L401 186 L395 221 L365 204 Z" fill="#dadada"/>
+  <path d="M405 86 L421 102 L306 327 L290 319 Z" fill="#e7eef7"/>
+  <path d="M389 93 L413 76 L423 99 L400 112 Z" fill="#ffd36b"/>
+  <path d="M213 375 L245 375 L239 453 L198 453 Z" fill="#263a8a"/>
+  <path d="M267 375 L299 375 L314 453 L273 453 Z" fill="#263a8a"/>
+  <path d="M190 447 L243 447 L243 472 L177 472 C177 459 181 451 190 447 Z" fill="#151515"/>
+  <path d="M269 447 L322 447 C331 451 335 459 335 472 L269 472 Z" fill="#151515"/>
+  <path d="M222 226 L290 226" stroke="#ffd36b" stroke-width="10" stroke-linecap="round" opacity=".75"/>
+  <path d="M235 284 L277 284" stroke="#ffd36b" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+</svg>
